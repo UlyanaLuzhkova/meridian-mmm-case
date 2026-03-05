@@ -122,10 +122,7 @@ $$E = \\frac{\\%\\ \\Delta Q}{\\%\\ \\Delta P} = \\frac{(Q\_2 - Q\_1)/Q\_1}{(P\_
 
 Для оценки эффективности каналов использовалась метрика **GRP на доллар затрат**:
 
-GRP per $
-=
-Total GRP
-Total Spend
+$$ GRP per $ = Total GRP/Total Spend $$
 
 где:
 
