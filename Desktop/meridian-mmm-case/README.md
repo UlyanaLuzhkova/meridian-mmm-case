@@ -225,3 +225,5 @@ $$ \\text{GRP per \\$} = \\frac{\\text{Total GRP}}{\\text{Total Spend}} $$
 
 1   Internet  8.045908e+06  7.479155e+05   0.092956
 
+
+
